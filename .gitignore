@@ -1,0 +1,7 @@
+*.iml
+.idea/
+.gradle/
+build/
+target/
+
+org-apache-ignite-tickets-ignite4901/work/
